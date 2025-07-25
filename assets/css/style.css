@@ -919,7 +919,7 @@ blockquote b {
 }
 
 .tmp-section-gap {
-  padding: 120px 0;
+  padding: 20px 0;
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .tmp-section-gap {
@@ -26839,7 +26839,7 @@ body.tmp-white-version .newslatter .newsletter-form-1 .form-icon i {
   color: #fff;
 }
 body.tmp-white-version .banner-two-main-wrapper .banner-right-content .main-img .banner-big-text-2 {
-  -webkit-text-stroke: 1px #fff;
+  -webkit-text-stroke: 1px #fc7676;
 }
 body.tmp-white-version.personal-demo-left-fixed .skill-style-border-card img {
   filter: brightness(0) saturate(100%);
