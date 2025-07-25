@@ -10943,7 +10943,7 @@ body.sal-disabled [data-sal|=flip] {
 }
 @media only screen and (max-width: 767px) {
   .header-one .header-content .logo img {
-    max-width: 135px;
+    max-width: 200px;
   }
 }
 .header-one .actions-area .social-link {
